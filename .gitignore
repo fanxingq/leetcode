@@ -1,0 +1,15 @@
+*.iml
+*.log
+*.class
+*.ctxt
+.idea/
+.project
+.classpath
+.settings
+bin/
+build/
+hs_err_pid*
+*/.settings/**
+target/*
+service/target/*
+contract/target/*
